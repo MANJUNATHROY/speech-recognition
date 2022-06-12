@@ -1,0 +1,15 @@
+body{
+	background-color: darkslategray;
+}
+
+.maindiv{
+	text-align: center;
+}
+
+.text{
+	background: #fff;
+}
+
+.text p.replay{
+	text-align: right;
+}
